@@ -1,0 +1,18 @@
+.companies-details-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.company-title{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-info{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}

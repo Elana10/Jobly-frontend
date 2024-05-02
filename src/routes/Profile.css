@@ -1,0 +1,43 @@
+.profile-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.profile-title-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.profile-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+
+}
+
+.form-label{
+    font-weight:bolder;
+    display: block;
+    margin: 10px;
+}
+
+button{
+    margin-top: 10px;
+}

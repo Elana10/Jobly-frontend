@@ -1,0 +1,10 @@
+.cardBox {
+    justify-content: center;
+    align-content: center;
+    border : solid 4px black;
+    background-color: antiquewhite;
+    height : 100px;
+    width : 80%;
+    margin : 3px;
+    padding: 3px;
+}

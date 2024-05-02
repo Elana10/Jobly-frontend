@@ -1,0 +1,12 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.welcome-text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
