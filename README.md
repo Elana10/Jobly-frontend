@@ -1,4 +1,4 @@
-https://jobly-frontend-39dd.onrender.com
+https://jobly-frontend-ravg.onrender.com/
 
 # Getting Started with Create React App
 
